@@ -3,7 +3,7 @@
 ## Я Игорь
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+developer+student)](https://git.io/typing-svg)
 
-## Сдесь ты найдёшь код на славном языке JAVA
+## Здесь ты найдёшь код на славном языке JAVA
 Пока в репозитории несколько учебных проектов и в ближайшее время я займусь их переработкой под WEB с применением технологий Spring Boot, JPA, Maven, H2/Postgres
 
 #### О себе
